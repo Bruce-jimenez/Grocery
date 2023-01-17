@@ -1,7 +1,7 @@
 import './App.css';
 import { useState } from 'react';
 import GroceryItem from './components/GroceryItem';
-import groceries from './groceries'
+import groceries from './components/groceries'
 
 function App() {
   
